@@ -710,8 +710,9 @@ will modify the virtual space and the price of the vehicle, but other informatio
             { "Altis Medical Department", "med", {
                 "textures\Ambulance_Boxer_Front.paa",
                 "textures\Ambulance_Boxer_Back.paa"
-        };
-    };
+              } }
+            };
+          };
 
     class B_MRAP_01_F {
         vItemSpace = 65;
@@ -727,7 +728,6 @@ will modify the virtual space and the price of the vehicle, but other informatio
                 "textures\lincpol_Hunter_Front.paa"
         };
     };
-
      class B_Heli_Light_01_stripped_F {
         vItemSpace = 90;
         licenses[] = { {""}, {""}, {""}, {""} };
@@ -755,9 +755,6 @@ will modify the virtual space and the price of the vehicle, but other informatio
         licenses[] = { {"pilot"}, {"cAir"}, {"mAir"}, {""} };
         price = 245000;
         textures[] = {
-            { "Sheriff", "cop", {
-                "\a3\air_f\Heli_Light_01\Data\Skins\heli_light_01_ext_sheriff_co.paa"
-            } },
             { "Sheriff", "cop", {
                 "\a3\air_f\Heli_Light_01\Data\Skins\heli_light_01_ext_sheriff_co.paa"
             } },
