@@ -4,8 +4,8 @@
 
 	Created by: Stanley / Invision
 */
-
-#include <macro.h>
+//#include <macro.h>
+#include <..\..\script_macros.hpp>
 
 #define FETCH_CONST(var) (call var)
 if(side player == independent) then {
