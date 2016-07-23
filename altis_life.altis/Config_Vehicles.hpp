@@ -632,7 +632,7 @@ will modify the virtual space and the price of the vehicle, but other informatio
         vItemSpace = 15;
         licenses[] = { {"driver"}, {""}, {""}, {""} };
         price = 12500;
-      /**  textures[] = {
+        textures[] = {
             { "Beige", "civ", {
                 "\a3\soft_f_gamma\Hatchback_01\data\hatchback_01_ext_base01_co.paa"
             } },
@@ -659,9 +659,9 @@ will modify the virtual space and the price of the vehicle, but other informatio
             } },
             { "Lincolnshire Police", "cop", {
                 "textures\lincpol_offroader.paa"
+            } },
+          }
         };
-    }
-
     class C_SUV_01_F {
         vItemSpace = 50;
         licenses[] = { {"driver"}, {""}, {""}, {""} };
