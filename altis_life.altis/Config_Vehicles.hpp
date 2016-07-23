@@ -660,7 +660,7 @@ will modify the virtual space and the price of the vehicle, but other informatio
             { "Lincolnshire Police", "cop", {
                 "textures\lincpol_offroader.paa"
             } },
-          }
+          };
         };
     class C_SUV_01_F {
         vItemSpace = 50;
