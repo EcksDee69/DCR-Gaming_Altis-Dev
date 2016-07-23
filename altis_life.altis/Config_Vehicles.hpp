@@ -706,7 +706,7 @@ will modify the virtual space and the price of the vehicle, but other informatio
             } },
             { "Red", "civ", {
                 "\a3\soft_f_gamma\Van_01\Data\van_01_ext_red_co.paa"
-            } }
+            } },
             { "Altis Medical Department", "med", {
                 "textures\Ambulance_Boxer_Front.paa",
                 "textures\Ambulance_Boxer_Back.paa"
@@ -721,7 +721,7 @@ will modify the virtual space and the price of the vehicle, but other informatio
             { "Black", "cop", {
                 "#(argb,8,8,3)color(0.05,0.05,0.05,1)",
                 "#(argb,8,8,3)color(0.05,0.05,0.05,1)"
-            } }
+            } },
             { "Altis SWAT", "civ", {
                 "textures\lincpol_Hunter_Back.paa",
                 "textures\lincpol_Hunter_Front.paa"
