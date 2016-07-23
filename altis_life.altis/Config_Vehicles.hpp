@@ -726,8 +726,9 @@ will modify the virtual space and the price of the vehicle, but other informatio
             { "Altis SWAT", "civ", {
                 "textures\lincpol_Hunter_Back.paa",
                 "textures\lincpol_Hunter_Front.paa"
-        };
-    };
+              } }
+            };
+          };
      class B_Heli_Light_01_stripped_F {
         vItemSpace = 90;
         licenses[] = { {""}, {""}, {""}, {""} };
