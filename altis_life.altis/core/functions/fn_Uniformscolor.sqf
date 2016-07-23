@@ -5,7 +5,7 @@
 	Created by: Stanley / Invision
 */
 
-#include <macro.h>
+#include <marco.h>
 
 #define FETCH_CONST(var) (call var)
 if(side player == independent) then {
