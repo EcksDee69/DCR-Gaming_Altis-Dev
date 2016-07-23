@@ -116,7 +116,7 @@ class CarShops {
         side = "cop";
         vehicles[] = {
             { "B_Heli_Light_01_F", { "", "", -1 } },
-            { "B_Heli_Transport_01_F", { "life_coplevel", "SCALAR", 3 } }
+            { "B_Heli_Transport_01_F", { "life_coplevel", "SCALAR", 3 } },
             { "I_Heli_light_03_unarmed_F", { "life_coplevel", "SCALAR", 3 } }
         };
     };
@@ -500,8 +500,8 @@ will modify the virtual space and the price of the vehicle, but other informatio
                 "\a3\soft_f_gamma\Hatchback_01\data\hatchback_01_ext_base09_co.paa"
             } }
         };
-    };    
-	
+    };
+
 	class I_C_Offroad_02_unarmed_F {
         vItemSpace = 100;
         licenses[] = { {"driver"}, {""}, {""}, {""} };
@@ -563,7 +563,7 @@ will modify the virtual space and the price of the vehicle, but other informatio
                 "\a3\soft_f_gamma\Hatchback_01\data\hatchback_01_ext_base09_co.paa"
             } }
         };**/
-    }	
+    }
 	class O_T_LSV_02_unarmed_F {
         vItemSpace = 100;
         licenses[] = { {"driver"}, {""}, {""}, {""} };
@@ -595,7 +595,7 @@ will modify the virtual space and the price of the vehicle, but other informatio
             } }
         };**/
     }
-	
+
 	class B_T_LSV_01_unarmed_F {
         vItemSpace = 15;
         licenses[] = { {"driver"}, {""}, {""}, {""} };
@@ -626,8 +626,8 @@ will modify the virtual space and the price of the vehicle, but other informatio
                 "\a3\soft_f_gamma\Hatchback_01\data\hatchback_01_ext_base09_co.paa"
             } }
         };**/
-    }	
-	
+    }
+
 	class B_GEN_Offroad_01_gen_F {
         vItemSpace = 15;
         licenses[] = { {"driver"}, {""}, {""}, {""} };
@@ -706,7 +706,7 @@ will modify the virtual space and the price of the vehicle, but other informatio
             } },
             { "Red", "civ", {
                 "\a3\soft_f_gamma\Van_01\Data\van_01_ext_red_co.paa"
-            } }     
+            } }
             { "Altis Medical Department", "med", {
                 "textures\Ambulance_Boxer_Front.paa",
                 "textures\Ambulance_Boxer_Back.paa"
@@ -721,7 +721,7 @@ will modify the virtual space and the price of the vehicle, but other informatio
             { "Black", "cop", {
                 "#(argb,8,8,3)color(0.05,0.05,0.05,1)",
                 "#(argb,8,8,3)color(0.05,0.05,0.05,1)"
-            } }            
+            } }
             { "Altis SWAT", "civ", {
                 "textures\lincpol_Hunter_Back.paa",
                 "textures\lincpol_Hunter_Front.paa"
@@ -738,7 +738,7 @@ will modify the virtual space and the price of the vehicle, but other informatio
             } }
         };
     };
-    
+
          class I_Heli_light_03_unarmed_F {
         vItemSpace = 90;
         licenses[] = { {""}, {""}, {""}, {""} };
