@@ -75,10 +75,11 @@ This section is meant for people doing their own edits to the mission, DO NOT RE
         [
 			"Server Rules",
 				"
-Please make an account on our fourms at http://dcrgaming.com/ which is where you can find all of our server rules and we require that you study and play by our rules
-General Rules- http://dcrgaming.c0derspace.com/forums/viewtopic.php?f=65&t=47&sid=6101cf5690beea735636e4a351415ab2
-Civilian Rules- http://dcrgaming.c0derspace.com/forums/viewtopic.php?f=65&t=48&sid=6101cf5690beea735636e4a351415ab2
-Police Rules- http://dcrgaming.c0derspace.com/forums/viewtopic.php?f=65&t=49&sid=6101cf5690beea735636e4a351415ab2
+Please make an account on our fourms at http://dcrgaming.com/ <br /> That is where you can find all of our server rules. We require that you study and play by our rules<br /><br />
+<a href=http://dcrgaming.c0derspace.com/forums/viewtopic.php?f=65&t=47&sid=6101cf5690beea735636e4a351415ab2>DCR Gaming Altis Life General Rules</a><br />
+<a href=http://dcrgaming.c0derspace.com/forums/viewtopic.php?f=65&t=48&sid=6101cf5690beea735636e4a351415ab2>DCR Gaming Altis Life Civilian Rules</a><br />
+<a href=http://dcrgaming.c0derspace.com/forums/viewtopic.php?f=65&t=49&sid=6101cf5690beea735636e4a351415ab2>DCR Gaming Altis Life Police Rules</a><br /><br />
+If You Have Any Questions Please Find An Admin On Our TeamSpeak @ DCRGAMING.COM (Yes Thats Also Our TS IP).
                 "
         ]
     ];
