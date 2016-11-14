@@ -26,7 +26,9 @@ class WeaponShops {
             { "hgun_Pistol_heavy_02_F", "", 9850, -1 },
             { "hgun_ACPC2_F", "", 11500, -1 },
             { "hgun_Pistol_01_F", "", 10000, -1 },
-            { "hgun_PDW2000_F", "", 20000, -1 }
+            { "hgun_PDW2000_F", "", 20000, -1 },
+            { "tf_anprc148jem", "", 1500, -1},
+            {"tf_anprc15", "", 1200, -1}
         };
         mags[] = {
             { "16Rnd_9x21_Mag", "", 25 },
@@ -62,7 +64,9 @@ class WeaponShops {
             { "hgun_ACPC2_F", "", 11500, -1 },
             { "hgun_Pistol_01_F", "", 10000, -1 },
             { "NVGoggles", "", 2000, 980 },
-            { "arifle_SDAR_F", "", 20000, 7500 }
+            { "arifle_SDAR_F", "", 20000, 7500 },
+            { "tf_fadak", "", 1500, -1},
+            {"tf_pnr1000a", "", 1200, -1}
         };
         mags[] = {
             { "30Rnd_556x45_Stanag", "", 300 },
@@ -126,7 +130,9 @@ class WeaponShops {
             { "Chemlight_red", "", 300, -1 },
             { "Chemlight_yellow", "", 300, 50 },
             { "Chemlight_green", "", 300, 50 },
-            { "Chemlight_blue", "", 300, 50 }
+            { "Chemlight_blue", "", 300, 50 },
+            { "tf_anprc148jem", "", 1500, -1},
+            {"tf_anprc15", "", 1200, -1}
         };
         mags[] = {};
         accs[] = {};
@@ -148,7 +154,9 @@ class WeaponShops {
             { "Chemlight_red", "", 1500, -1 },
             { "Chemlight_yellow", "", 1500, 50 },
             { "Chemlight_green", "", 1500, 50 },
-            { "Chemlight_blue", "", 1500, 50 }
+            { "Chemlight_blue", "", 1500, 50 },
+            { "tf_anprc148jem", "", 1500, -1},
+            {"tf_anprc15", "", 1200, -1}
         };
         mags[] = {};
         accs[] = {};
@@ -170,7 +178,16 @@ class WeaponShops {
             { "Binocular", "", 150, -1 },
             { "ItemGPS", "", 100, 45 },
             { "FirstAidKit", "", 150, 65 },
-            { "NVGoggles", "", 2000, 980 }
+            { "NVGoggles", "", 2000, 980 },
+            { "tf_anprc152", "", 1500, -1},
+            {"tf_rf7800str", "", 1200, -1},
+            //Long Range Radios
+            { "tf_rt1523g", "", 3000, -1},
+            {"tf_rt1523g_big", "", 3000, -1},
+            { "tf_rt1523g_black", "", 3000, -1},
+            {"tf_rt1523g_fabric", "", 3000, -1},
+            { "tf_rt1523g_green", "", 3000, -1},
+            {"tf_rt1523g_sage", "", 3000, -1}
         };
         mags[] = {
             { "16Rnd_9x21_Mag", "", 25 },
@@ -198,7 +215,16 @@ class WeaponShops {
             { "acc_flashlight", "", 750, 100 },
             { "optic_Holosight", "", 1200, 275 },
             { "optic_Arco", "", 2500, -1 },
-            { "muzzle_snds_H", "", 2750, -1 }
+            { "muzzle_snds_H", "", 2750, -1 },
+            { "tf_anprc152", "", 1500, -1},
+            {"tf_rf7800str", "", 1200, -1},
+            //Long Range Radios
+            { "tf_rt1523g", "", 3000, -1},
+            {"tf_rt1523g_big", "", 3000, -1},
+            { "tf_rt1523g_black", "", 3000, -1},
+            {"tf_rt1523g_fabric", "", 3000, -1},
+            { "tf_rt1523g_green", "", 3000, -1},
+            {"tf_rt1523g_sage", "", 3000, -1}
         };
         mags[] = {
             { "30Rnd_65x39_caseless_mag", "", 130 },
@@ -221,13 +247,22 @@ class WeaponShops {
         items[] = {
             { "hgun_ACPC2_F", "", 17500, -1 },
             { "SMG_02_ACO_F", "", 15000, -1 },
-            { "arifle_SPAR_01_blk_F", "", 60000, -1 },
+            { "arifle_SPAR_03_blk_F", "", 60000, -1 },
             { "srifle_EBR_F", "", 80000, -1 },
             { "arifle_MXC_F", "", 30000, 5000 },
             { "arifle_Mk20C_plain_F", "", 45000, 5000 },
             { "HandGrenade_Stone", "Flashbang", 1700, -1 },
             { "optic_Arco", "", 2500, -1 },
-            { "muzzle_snds_H", "", 2750, -1 }
+            { "muzzle_snds_H", "", 2750, -1 },
+            { "tf_anprc152", "", 1500, -1},
+            {"tf_rf7800str", "", 1200, -1},
+            //Long Range Radios
+            { "tf_rt1523g", "", 3000, -1},
+            {"tf_rt1523g_big", "", 3000, -1},
+            { "tf_rt1523g_black", "", 3000, -1},
+            {"tf_rt1523g_fabric", "", 3000, -1},
+            { "tf_rt1523g_green", "", 3000, -1},
+            {"tf_rt1523g_sage", "", 3000, -1}
         };
         mags[] = {
             { "9Rnd_45ACP_Mag", "", 200 },
@@ -255,7 +290,16 @@ class WeaponShops {
             { "ItemGPS", "", 100, 45 },
             { "Binocular", "", 150, -1 },
             { "FirstAidKit", "", 150, 65 },
-            { "NVGoggles", "", 1200, 980 }
+            { "NVGoggles", "", 1200, 980 },
+            { "tf_anprc152", "", 1500, -1},
+            {"tf_rf7800str", "", 1200, -1},
+            //Long Range Radios
+            { "tf_rt1523g", "", 3000, -1},
+            {"tf_rt1523g_big", "", 3000, -1},
+            { "tf_rt1523g_black", "", 3000, -1},
+            {"tf_rt1523g_fabric", "", 3000, -1},
+            { "tf_rt1523g_green", "", 3000, -1},
+            {"tf_rt1523g_sage", "", 3000, -1}
         };
         mags[] = {};
         accs[] = {};

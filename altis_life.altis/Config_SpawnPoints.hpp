@@ -111,7 +111,7 @@ class CfgSpawnPoints {
         };
 
         class HW {
-            displayName = "HW Patrol";
+            displayName = "Sheriffs Department";
             spawnMarker = "cop_spawn_5";
             icon = "\a3\ui_f\data\map\GroupIcons\badge_rotate_0_gs.paa";
             licenses[] = { { "", true } };
